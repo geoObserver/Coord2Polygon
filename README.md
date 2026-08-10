@@ -33,4 +33,4 @@ Contributions are welcome. Open an [issue](https://github.com/geoObserver/Coord2
 
 - **Code:** [GNU General Public License v2](LICENSE)
 - **Author:** Mike Elstermann ([#geoObserver](https://geoobserver.de/))
-- **Issues:** [github.com/geoObserver/WeatherPicker/issues](https://github.com/geoObserver/WeatherPicker/issues)
+- **Issues:** [github.com/geoObserver/coord2polygon/issues](https://github.com/geoObserver/coord2polygon/issues)
