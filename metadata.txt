@@ -8,7 +8,7 @@
 name=Coord2Polygon
 qgisMinimumVersion=3.10
 description=Create polygon features from rectangle coordinates or semicolon-separated coordinate pairs. // Erstellen Sie Polygon-Objekte aus Rechteckkoordinaten oder durch Semikolons getrennten Koordinatenpaare.
-version=0.4
+version=0.5
 author=Mike Elstermann (#geoObserver) and AI
 email=news@geoobserver.de
 about=Create polygon features from rectangle coordinates or semicolon-separated coordinate pairs. // Erstellen Sie Polygon-Objekte aus Rechteckkoordinaten oder durch Semikolons getrennten Koordinatenpaare.
@@ -19,8 +19,9 @@ homepage=https://geoobserver.de/coord2polygon/
 tracker=https://github.com/geoObserver/Coord2Polygon/issues
 repository=https://github.com/geoObserver/Coord2Polygon
 category=Web
-icon=logo.png
+icon=logo.svg
 experimental=False
 deprecated=False
 hasProcessingProvider=False
-changelog=0.4 - Initial Upload
+changelog=0.5 - new icon, Additional source: AI
+	0.4 - Initial Upload
